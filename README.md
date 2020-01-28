@@ -1,9 +1,4 @@
-# aknagu-saedup-saiparsa-a4
-
-
-a4 created for aknagu-saedup-saiparsa
-
- Tree:- (Decion tree)
+Tree:- (Decion tree)
 
 We have used classification and regression trees (CART ) algorithm for implementing decison tree in our program.
 
